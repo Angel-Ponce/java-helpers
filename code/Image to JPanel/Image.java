@@ -12,7 +12,7 @@ import javax.swing.JPanel;
  *
  * @author Angel
  */
-public class Imagen extends JPanel {
+public class Image extends JPanel {
 
     int width;
     int height;
@@ -25,7 +25,7 @@ public class Imagen extends JPanel {
      * @param width width of image
      * @param path path to localize image (Prefered use the absolute path)
      */
-    public Imagen(int width, int height, String path) {
+    public Image(int width, int height, String path) {
         this.width = width;
         this.height = height;
         this.path = path;
