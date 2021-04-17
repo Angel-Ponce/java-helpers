@@ -3,7 +3,7 @@
  - Easy to use
  
  ## How to use?
- - Add the class Animator in your project
+ - Import the class Animator in your project
  - Change the default package
  - Use the static method to move your components
  
