@@ -2,12 +2,12 @@
  - Is a default class to use if you want to move your swing components in your application
  - Easy to use
  
- ##How to use?
+ ## How to use?
  - Add the class Animator in your project
  - Change the default package
  - Use the static method to move your components
  
- ##Example
+ ## Example
  
  ```java
  JPanel panel = new JPanel();
